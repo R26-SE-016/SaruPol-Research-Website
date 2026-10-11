@@ -1,1 +1,12 @@
-Reference Research Website
+# Reference development source code
+Reference Research Website/
+*.zip
+
+# Operating System & Editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Local text extracts
+Docs/guidelines_extracted.txt
